@@ -1,7 +1,7 @@
 :root {
   --backgroundcolor:#835EA3!important;
   --base01:#834742!important;
-  --h1color:#C0938D!important;
+  --h1color:#FFC90E!important;
   --h2color:#364529!important;
   --h3color:#364529!important;
   --base05:#784872!important;
@@ -237,3 +237,4 @@ tr:nth-child(odd) td {
 caption {
   padding: 10px;
 }
+
