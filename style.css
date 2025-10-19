@@ -17,7 +17,7 @@
   --base0F:#312d23!important
 }
 html {
-  font-size:72.5%;
+  font-size:90%;
   background-color:var(--backgroundcolor)
 }
 body {
@@ -237,4 +237,5 @@ tr:nth-child(odd) td {
 caption {
   padding: 10px;
 }
+
 
