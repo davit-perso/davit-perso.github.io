@@ -3,7 +3,7 @@
   --base01:#834742!important;
   --h1color:#C0938D!important;
   --h2color:#364529!important;
-  --h3color:#656E4A!important;
+  --h3color:#364529!important;
   --base05:#784872!important;
   --h4color:#006470!important;
   --textcolor:#000000!important;
@@ -76,11 +76,11 @@ h2 {
   color:var(--h2color)
 }
 h3 {
-  font-size:2rem;
+  font-size:1.7rem;
   color:var(--h3color)
 }
 h4 {
-  font-size:1.8rem;
+  font-size:1.4rem;
   color:var(--h4color)
 }
 h6 :is(a:link,
