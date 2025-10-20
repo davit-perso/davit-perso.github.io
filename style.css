@@ -6,7 +6,7 @@
   --h3color:#364529!important;
   --base05:#784872!important;
   --h4color:#006470!important;
-  --textcolor:#000000!important;
+  --textcolor:#FFFFFF!important;
   --base08:#c3c0ba!important;
   --headers:#863896!important;
   --base0A:#2c633f!important;
@@ -237,5 +237,6 @@ tr:nth-child(odd) td {
 caption {
   padding: 10px;
 }
+
 
 
