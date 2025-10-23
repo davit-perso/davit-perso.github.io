@@ -18,7 +18,7 @@
 }
 html {
   font-size:100%;
-    background-image: url('small.jpg');
+    background-image: url('backnoised.png');
 }
 body {
   font-family:Big Caslon;
@@ -235,4 +235,5 @@ tr:nth-child(odd) td {
 
 caption {
   padding: 10px;
+
 }
