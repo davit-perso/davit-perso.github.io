@@ -1,0 +1,50 @@
+:root {
+  --black:#000000!important;
+  --white:#FFFFFF!important;
+  --red:#FFC90E!important;
+}
+
+html {
+  font-size:80%;
+  background-image: url('carreaux.png');
+  //background-repeat: no-repeat;
+  //background-size: cover;
+}
+
+body {
+  font-family:Big Caslon;
+  font-size:1.6rem;
+  color:var(--white);
+  margin-bottom: 5%; 
+  margin-left: 5%;
+  margin-right: 5%; 
+}
+
+h1 {
+  font-size:3.3rem;
+  color:var(--red)
+}
+h2 {
+  font-size:2.4rem;
+  color:var(--red)
+}
+h3 {
+  font-size:2rem;
+  color:var(--red)
+}
+h4 {
+  font-size:1.8rem;
+  color:var(--red)
+}
+
+a {
+  color:var(--red);
+  text-decoration:underline!important
+}
+
+.tab {
+  width:100%;
+  border-collapse: collapse;
+  letter-spacing: 1px;
+  font-size: 1.5rem;
+}
